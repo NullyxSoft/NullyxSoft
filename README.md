@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Selimcan Acar. I do Mobile App  via Flutter or Kotlin .</h2>
+<h2 align="left">Hi 👋! My name is Selimcan Acar. I develop Mobile App  via Flutter or Kotlin .</h2>
 
 ###
 
