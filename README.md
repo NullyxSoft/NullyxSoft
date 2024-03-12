@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Selimcan. I develop Mobile App  via Flutter .</h2>
+<h2 align="left">Hi 👋! My name is Selimcan. I develop Mobile App via Flutter or Kotlin. I write service in asp.net core for my applications. </h2>
 
 ###
 
